@@ -40,19 +40,20 @@ HappyWarehouse/
 ```
 
 ## Setup and Installation
+   **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/HappyWarehouse.git
+   cd HappyWarehouse
+   ```
+
+   **Setups**:
    ```bash
    1- Open the solution.
-   2- Run the WebAPI project and copy the application URL from browser. (e.g., https://localhost:8090/).
+   2- Run the WebAPI project and copy the application URL from browser. (e.g., https://localhost:7251/).
    3- In the Front-End project, open the js/main.js file.
    4- Update the baseURL variable to the WebAPI application URL copied in Step 2.
    5- In the Front-End project, open Login.html in the browser.
    6- Login to the system using this credentials:
    Email: admin@happywarehouse.com
    Password: P@ssw0rd
-   ```
-
-**Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/HappyWarehouse.git
-   cd HappyWarehouse
    ```
