@@ -1,4 +1,4 @@
-﻿const baseUrl = "https://happywarehouseapi.bsite.net";
+﻿const baseUrl = "https://localhost:7251";
 
 $(document).ready(function(){
     $('#logoutBtn').click(function(e) {
